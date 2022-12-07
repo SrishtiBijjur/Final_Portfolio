@@ -5,11 +5,8 @@ body {
     font-family: 'Gill Sans', sans-serif;
 }
 
-.column {
-  -ms-flex: 100%;
-  flex: 100%;
-  max-width: 100%;
-}
+h1
+{margin-left:50px;}
 
 .skip-to-main-content-link {
   position: absolute;
