@@ -538,7 +538,10 @@ margin:50px;
 .card a {
   padding-bottom: 20px;
 }
-
+    
+.topnav a {
+  display: block;
+}
 
 
 
