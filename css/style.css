@@ -6,7 +6,11 @@ body {
 }
 
 h1
-{margin-left:50px;}
+{
+  margin-left:50px;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
 
 .skip-to-main-content-link {
   position: absolute;
