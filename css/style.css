@@ -12,6 +12,12 @@ h1
   animation-name: slidein;
 }
 
+.header h3{
+  margin-left:50px;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
 .left h3{
    margin-left:50px;
   animation-duration: 3s;
