@@ -7,19 +7,19 @@ body {
 
 h1
 {
-  margin-left:30px;
+  font-size: 20px;
   animation-duration: 3s;
   animation-name: slidein;
 }
 
 .header h3{
-  margin-left:30px;
+  font-size: 20px;
   animation-duration: 3s;
   animation-name: slidein;
 }
 
 .left h3{
-   margin-left:30px;
+  font-size: 20px;
   animation-duration: 3s;
   animation-name: slidein;
 }
