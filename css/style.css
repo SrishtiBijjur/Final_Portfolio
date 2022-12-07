@@ -308,8 +308,7 @@ input[type=email], select {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  border: 2px solid black;
   box-sizing: border-box;
 }
 
